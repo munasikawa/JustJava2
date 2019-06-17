@@ -3,5 +3,8 @@
     <string name="quantity_name">QUANTITY</string>
     <string name="quantity">0</string>
     <string name="order_button">ORDER</string>
+    <string name="toppings_name">TOPPINGS</string>
+    <string name="whipped_toppings">Whipped Cream</string>
+    <string name="chocolate_toppings">Chocolate</string>
 </resources>
 
